@@ -11,7 +11,8 @@ class estudiante{
     }
 }
 
-
+let edad=32
+console.log(edad)
 
 let fede= new estudiante
 console.log(fede.obtendatos())

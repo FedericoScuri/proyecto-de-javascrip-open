@@ -1,5 +1,5 @@
 
-
+// falta terminar 
 let parrafo= document.querySelectorAll(".parrafo")
 let seccion= document.querySelectorAll(".seccion")
 

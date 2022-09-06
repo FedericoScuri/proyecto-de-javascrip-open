@@ -1,0 +1,17 @@
+
+
+.seccion {
+    background-color: darkcyan;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo{
+    background-color: white;
+    padding: 1rem;
+}
+
+.parrafo.draggin{
+    opacity: 0.3;
+}
+
